@@ -1,6 +1,6 @@
 {
   "name": "johnstarkmain",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Test Project",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,8 @@
   },
   "dependencies": {
     "tracydeal19": "1.0.0",
-    "minti_fulkerson": "0.1.4"
+    "minti_fulkerson": "0.1.4",
+    "tea-costumermain": "1.0.0"
   },
   "author": "",
   "license": "ISC",
